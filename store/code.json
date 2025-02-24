@@ -1,0 +1,10 @@
+[
+  {
+    "code": "MOCA-1234567890",
+    "max_use": 10
+  },
+  {
+    "code": "MOCA-A1B2C3D4E5",
+    "max_use": 2
+  }
+]
