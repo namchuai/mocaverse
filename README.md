@@ -2,6 +2,9 @@
 - I picked Frontend assessment.
 - I wrote Backend code as well, just for full function showcase. So, I just do bare minimum validation on the backend, just for it to run.
 
+### Sample video
+https://github.com/user-attachments/assets/5aa217b5-9a42-416e-af60-75cc7842ba0d
+
 ### Setting things up:
 1. Run below command
 ```bash
